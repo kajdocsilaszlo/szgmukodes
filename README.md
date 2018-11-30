@@ -7,3 +7,5 @@
 3. Összetettebb Linux parancssori parancsok
 4. GitHub működése, legfontosabb git parancsok
 5. Shell szkriptek
+
+Kérem, amennyiben sajtóhibát találnak a jegyzetben, jelezzék nekem a kajdocsi.laszlo@sze.hu címen.
